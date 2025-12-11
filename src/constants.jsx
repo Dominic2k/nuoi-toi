@@ -7,10 +7,10 @@ export const DATA = {
             "Chuyên gia tiêu tiền 💸",
             "Lập trình viên tập sự 💻",
             "Kẻ hủy diệt Deadline 🚀",
-        ], // Đổi thành mảng để làm hiệu ứng gõ chữ
+        ],
         description:
             "Chào mừng đến với dự án đầu tư mạo hiểm nhất cuộc đời bạn: Nuôi tôi. Lợi nhuận không đảm bảo, nhưng nụ cười thì miễn phí (đôi khi).",
-        avatar: "/my_avt.jpg", // Đảm bảo ảnh nằm trong folder public
+        avatar: "/my_avt.jpg",
     },
     whyMe: [
         {
